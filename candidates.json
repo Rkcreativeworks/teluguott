@@ -1,4 +1,90 @@
 {
- "updated": null,
- "items": []
+ "updated": "2026-11-23T12:18:31.498Z",
+ "items": [
+  {
+   "n": "Saayavanam",
+   "from": "ta",
+   "p": [
+    "Aha"
+   ],
+   "link": "https://www.themoviedb.org/movie/1310458"
+  },
+  {
+   "n": "Anbil Avan",
+   "from": "ta",
+   "p": [
+    "SonyLIV",
+    "Sonyliv Amazon Channel"
+   ],
+   "link": "https://www.themoviedb.org/movie/1431738"
+  },
+  {
+   "n": "Haiku",
+   "from": "ta",
+   "p": [
+    "Netflix"
+   ],
+   "link": "https://www.themoviedb.org/movie/1593350"
+  },
+  {
+   "n": "Bandra",
+   "from": "ml",
+   "p": [
+    "ZEE5"
+   ],
+   "link": "https://www.themoviedb.org/movie/1013057"
+  },
+  {
+   "n": "Chiram",
+   "from": "ml",
+   "p": [
+    "Sun NXT"
+   ],
+   "link": "https://www.themoviedb.org/movie/1778302"
+  },
+  {
+   "n": "Madhurame Jeevitham",
+   "from": "ml",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "link": "https://www.themoviedb.org/movie/1566124"
+  },
+  {
+   "n": "Premada Oorali",
+   "from": "kn",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "link": "https://www.themoviedb.org/movie/1735270"
+  },
+  {
+   "n": "City Lights",
+   "from": "kn",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "link": "https://www.themoviedb.org/movie/1730215"
+  },
+  {
+   "n": "Daayra",
+   "from": "hi",
+   "p": [
+    "Netflix"
+   ],
+   "link": "https://www.themoviedb.org/movie/1215889"
+  },
+  {
+   "n": "Parivarik ManuRanjan",
+   "from": "hi",
+   "p": [
+    "SonyLIV",
+    "Sonyliv Amazon Channel"
+   ],
+   "link": "https://www.themoviedb.org/movie/1493572"
+  }
+ ]
 }

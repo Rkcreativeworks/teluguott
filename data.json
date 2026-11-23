@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:16:40.225Z",
+ "updated": "2026-11-23T12:18:31.498Z",
  "items": [
   {
    "n": "Crazy Kalyanam",
@@ -76,7 +76,11 @@
    "d": "2026-11-19",
    "source": "https://www.telugu360.com/ott-releases-for-the-weekend-nov20/",
    "src": "manual",
-   "status": "reported"
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "pending": [],
+   "link": "https://www.themoviedb.org/movie/1606527"
   },
   {
    "n": "Cult",
@@ -87,7 +91,11 @@
    "d": "2026-11-18",
    "source": "https://www.telugu360.com/ott-releases-for-the-weekend-nov20/",
    "src": "manual",
-   "status": "reported"
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "pending": [],
+   "link": "https://www.themoviedb.org/movie/1637705"
   },
   {
    "n": "Kiku Chiranjeevi",
@@ -111,7 +119,11 @@
    "d": "2026-11-13",
    "source": "https://www.telugu360.com/ott-releases-for-third-week-of-november-2026/",
    "src": "manual",
-   "status": "reported"
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "pending": [],
+   "link": "https://www.themoviedb.org/movie/1389379"
   },
   {
    "n": "Happy Journey",
@@ -122,7 +134,11 @@
    "d": "2026-11-13",
    "source": "https://www.telugu360.com/ott-releases-for-third-week-of-november-2026/",
    "src": "manual",
-   "status": "reported"
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "pending": [],
+   "link": "https://www.themoviedb.org/movie/1772904"
   },
   {
    "n": "Pushpaka Vimanam",
@@ -158,6 +174,21 @@
    "source": "https://www.telugu360.com/ott-releases-for-november-1st-week-2026/",
    "src": "manual",
    "status": "reported"
+  },
+  {
+   "n": "Baa Baa Black Sheep",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Sun NXT",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-11-06",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1555215"
   },
   {
    "n": "Anakapalli",
@@ -203,7 +234,11 @@
    "d": "2026-10-30",
    "source": "https://www.telugu360.com/ott-releases-for-october-last-weekend/",
    "src": "manual",
-   "status": "reported"
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "pending": [],
+   "link": "https://www.themoviedb.org/movie/1261763"
   },
   {
    "n": "Rudravanam PS",
@@ -214,7 +249,11 @@
    "d": "2026-10-30",
    "source": "https://www.telugu360.com/ott-releases-for-october-last-weekend/",
    "src": "manual",
-   "status": "reported"
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "pending": [],
+   "link": "https://www.themoviedb.org/tv/340453"
   },
   {
    "n": "Sigma",
@@ -239,6 +278,33 @@
    "source": "https://www.telugu360.com/ott-releases-for-october-last-weekend/",
    "src": "manual",
    "status": "reported"
+  },
+  {
+   "n": "SI Yugandhar",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-10-30",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1811964"
+  },
+  {
+   "n": "Comrade Kalyan",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-10-30",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1428295"
   },
   {
    "n": "Thella Kaagitham",
@@ -272,7 +338,11 @@
    "d": "2026-10-22",
    "source": "https://cinebuds.com/telugu-movies-digital-release-dates/",
    "src": "manual",
-   "status": "reported"
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "pending": [],
+   "link": "https://www.themoviedb.org/movie/1376856"
   },
   {
    "n": "Naa Wife Missing",
@@ -310,6 +380,33 @@
    "status": "reported"
   },
   {
+   "n": "Kagitham Padavalu",
+   "t": "Movie",
+   "p": [
+    "Sun NXT"
+   ],
+   "d": "2026-10-16",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1799441"
+  },
+  {
+   "n": "The Traitors (Telugu)",
+   "t": "Series",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-10-14",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/tv/336831"
+  },
+  {
    "n": "Epic: First Semester",
    "t": "Movie",
    "p": [
@@ -318,7 +415,11 @@
    "d": "2026-10-09",
    "source": "https://www.esquireindia.co.in/entertainment/what-to-stream/telugu-ott-releases-this-week-oct-5-11-epic-first-semester-least-eligible-bachelor-eyes-mandaadi-netflix-sonyliv-etv-win",
    "src": "manual",
-   "status": "reported"
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "pending": [],
+   "link": "https://www.themoviedb.org/movie/1408158"
   },
   {
    "n": "Maremma",
@@ -329,7 +430,11 @@
    "d": "2026-10-09",
    "source": "https://www.91mobiles.com/entertainment/new-telugu-movies",
    "src": "manual",
-   "status": "reported"
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "pending": [],
+   "link": "https://www.themoviedb.org/movie/1604274"
   },
   {
    "n": "Mahendragiri Varahi",
@@ -343,6 +448,20 @@
    "status": "reported"
   },
   {
+   "n": "Mahendragiri Vaaraahi",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-10-02",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1049064"
+  },
+  {
    "n": "Romanchakam",
    "t": "Movie",
    "p": [
@@ -351,20 +470,1108 @@
    "d": "2026-10-01",
    "source": "https://www.91mobiles.com/entertainment/new-telugu-movies",
    "src": "manual",
-   "status": "reported"
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "pending": [],
+   "link": "https://www.themoviedb.org/movie/1669281"
+  },
+  {
+   "n": "Ameer Log",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-10-01",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1751736"
   },
   {
    "n": "Least Eligible Bachelor",
    "t": "Series",
    "p": [
-    "ETV Win",
     "Netflix"
    ],
    "m": "2026-10",
    "note": "Week of 5-11 Oct",
    "source": "https://www.esquireindia.co.in/entertainment/what-to-stream/telugu-ott-releases-this-week-oct-5-11-epic-first-semester-least-eligible-bachelor-eyes-mandaadi-netflix-sonyliv-etv-win",
    "src": "manual",
-   "status": "reported"
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "pending": [
+    "ETV Win"
+   ],
+   "link": "https://www.themoviedb.org/tv/337806"
+  },
+  {
+   "n": "Agadha",
+   "t": "Movie",
+   "p": [
+    "ZEE5"
+   ],
+   "d": "2026-09-25",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1747034"
+  },
+  {
+   "n": "Ramba Oorvasi Menaka",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-09-25",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1560208"
+  },
+  {
+   "n": "Karmakhya",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Aha",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-09-19",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1741770"
+  },
+  {
+   "n": "Irumudi",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-09-18",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1441228"
+  },
+  {
+   "n": "Hushar Pittalu",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-09-15",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1742434"
+  },
+  {
+   "n": "Panchanama",
+   "t": "Series",
+   "p": [
+    "ZEE5"
+   ],
+   "d": "2026-09-11",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/tv/334788"
+  },
+  {
+   "n": "Korean Kanakaraju",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-09-04",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1423253"
+  },
+  {
+   "n": "Jagamae Sangeetham",
+   "t": "Series",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-09-04",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/tv/316970"
+  },
+  {
+   "n": "Pallaburusu",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-09-02",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1750516"
+  },
+  {
+   "n": "KJQ",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-08-28",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1437143"
+  },
+  {
+   "n": "Newton's 3rd Law",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-08-27",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1740614"
+  },
+  {
+   "n": "Chennai Love Story",
+   "t": "Movie",
+   "p": [
+    "SonyLIV",
+    "Sonyliv Amazon Channel"
+   ],
+   "d": "2026-08-21",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1443136"
+  },
+  {
+   "n": "Sanjeev",
+   "t": "Movie",
+   "p": [
+    "Aha"
+   ],
+   "d": "2026-08-21",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1473091"
+  },
+  {
+   "n": "Raja The Raja",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Sun NXT",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-08-20",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1734011"
+  },
+  {
+   "n": "Srinivasa Mangapuram",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-08-20",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1577326"
+  },
+  {
+   "n": "Mister Middle Class",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Aha",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-08-19",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1732324"
+  },
+  {
+   "n": "Mr. Work from Home",
+   "t": "Movie",
+   "p": [
+    "Sun NXT"
+   ],
+   "d": "2026-08-14",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1749087"
+  },
+  {
+   "n": "Vadala",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-08-14",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1733512"
+  },
+  {
+   "n": "Lenin",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "ZEE5",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-08-07",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1408170"
+  },
+  {
+   "n": "Oh..! Sukumari",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-08-07",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1592679"
+  },
+  {
+   "n": "M.R.P (Neekentha Naakentha)",
+   "t": "Movie",
+   "p": [
+    "Aha"
+   ],
+   "d": "2026-08-06",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1744681"
+  },
+  {
+   "n": "Deewana",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Aha",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-07-31",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1649874"
+  },
+  {
+   "n": "Rao Bahadur",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-07-31",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1443961"
+  },
+  {
+   "n": "Purushaha",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Aha",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-07-24",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1691219"
+  },
+  {
+   "n": "Nagabandham: The Secret Treasure",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-07-24",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1442396"
+  },
+  {
+   "n": "Gedelaraju Kakinada Taluka",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Aha",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-07-17",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1685630"
+  },
+  {
+   "n": "Maa Inti Bangaram",
+   "t": "Movie",
+   "p": [
+    "JioHotstar",
+    "SonyLIV",
+    "Sonyliv Amazon Channel"
+   ],
+   "d": "2026-07-17",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1227241"
+  },
+  {
+   "n": "Transfer Trimurthulu",
+   "t": "Movie",
+   "p": [
+    "ZEE5"
+   ],
+   "d": "2026-07-17",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1528499"
+  },
+  {
+   "n": "Peddi",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-07-09",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1057265"
+  },
+  {
+   "n": "Sing Geetham",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-07-08",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1626170"
+  },
+  {
+   "n": "Kotha Malupu",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-07-06",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1712850"
+  },
+  {
+   "n": "Gurthukosthunnayi",
+   "t": "Series",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-07-03",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/tv/327594"
+  },
+  {
+   "n": "Isakapatnam",
+   "t": "Series",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-07-02",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/tv/316968"
+  },
+  {
+   "n": "Super Subbu",
+   "t": "Series",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-07-02",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/tv/283609"
+  },
+  {
+   "n": "Dooradarshini",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-06-26",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1721204"
+  },
+  {
+   "n": "Bãhubali: The Torchbearer",
+   "t": "Series",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-06-26",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/tv/326122"
+  },
+  {
+   "n": "Garbham",
+   "t": "Movie",
+   "p": [
+    "Hungama Play"
+   ],
+   "d": "2026-06-22",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1720319"
+  },
+  {
+   "n": "M4M: Motive for Murder",
+   "t": "Movie",
+   "p": [
+    "Lionsgate Play",
+    "Lionsgate Play Apple TV Channel",
+    "Lionsgate Play Amazon Channel"
+   ],
+   "d": "2026-06-19",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1679791"
+  },
+  {
+   "n": "Razor",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Aha",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-06-19",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1688062"
+  },
+  {
+   "n": "Mareechika",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-06-19",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1696236"
+  },
+  {
+   "n": "Ramani Kalyanam",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Sun NXT",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-06-12",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1703675"
+  },
+  {
+   "n": "Ugly Story",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "JioHotstar",
+    "Aha",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-06-05",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1439584"
+  },
+  {
+   "n": "Gaayapadda Simham",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-05-22",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1630661"
+  },
+  {
+   "n": "Sathi Leelavathi",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Sun NXT",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-05-20",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1522079"
+  },
+  {
+   "n": "Thimmarajupalli TV",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Aha",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-05-17",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1541705"
+  },
+  {
+   "n": "Bad Boy Karthik",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-05-14",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1555860"
+  },
+  {
+   "n": "Dacoit",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-05-08",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1220522"
+  },
+  {
+   "n": "Biker",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-05-01",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1423251"
+  },
+  {
+   "n": "Raakaasa",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-04-30",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1451078"
+  },
+  {
+   "n": "Sodhara",
+   "t": "Movie",
+   "p": [
+    "Aha"
+   ],
+   "d": "2026-04-25",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1685629"
+  },
+  {
+   "n": "Band Melam",
+   "t": "Movie",
+   "p": [
+    "ZEE5"
+   ],
+   "d": "2026-04-24",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1547712"
+  },
+  {
+   "n": "Mension House Mallesh",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Aha",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-04-22",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1647142"
+  },
+  {
+   "n": "Lechindi Mahila Lokam",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Sun NXT",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-04-21",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1678386"
+  },
+  {
+   "n": "Suyodhana",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-04-17",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1658163"
+  },
+  {
+   "n": "Ustaad Bhagat Singh",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-04-16",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/868668"
+  },
+  {
+   "n": "S. Saraswathi",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-04-04",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1552958"
+  },
+  {
+   "n": "Sampradayaini Suppini Suddapusaani",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-04-03",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1335092"
+  },
+  {
+   "n": "Mrithyunjay",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-04-02",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1428294"
+  },
+  {
+   "n": "Hey Balwanth",
+   "t": "Movie",
+   "p": [
+    "ZEE5"
+   ],
+   "d": "2026-03-31",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1531852"
+  },
+  {
+   "n": "Seetha Payanam",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Sun NXT",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-03-20",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1566740"
+  },
+  {
+   "n": "Bhartha Mahasayulaku Wignyapthi",
+   "t": "Movie",
+   "p": [
+    "ZEE5"
+   ],
+   "d": "2026-03-13",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1442975"
+  },
+  {
+   "n": "Couple Friendly",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-03-13",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1440735"
+  },
+  {
+   "n": "Funky",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-03-12",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1403737"
+  },
+  {
+   "n": "Nawab Cafe",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-03-12",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1533735"
+  },
+  {
+   "n": "Om Shanti Shanti Shantihi",
+   "t": "Movie",
+   "p": [
+    "Aha"
+   ],
+   "d": "2026-03-02",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1508577"
+  },
+  {
+   "n": "D/O Prasad Rao: Kanabadutaledu",
+   "t": "Series",
+   "p": [
+    "ZEE5"
+   ],
+   "d": "2026-02-27",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/tv/315212"
+  },
+  {
+   "n": "Vanaveera",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-02-13",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1634301"
+  },
+  {
+   "n": "Mana ShankaraVaraPrasad Garu",
+   "t": "Movie",
+   "p": [
+    "ZEE5"
+   ],
+   "d": "2026-02-11",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1439713"
+  },
+  {
+   "n": "Anaganaga Oka Raju",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-02-11",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1407432"
+  },
+  {
+   "n": "Nilakanta",
+   "t": "Movie",
+   "p": [
+    "Sun NXT"
+   ],
+   "d": "2026-02-05",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1107009"
+  },
+  {
+   "n": "Naari Naari Naduma Murari",
+   "t": "Movie",
+   "p": [
+    "Prime Video"
+   ],
+   "d": "2026-02-04",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1417849"
+  },
+  {
+   "n": "Psych Siddhartha",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Aha",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-02-02",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1594670"
+  },
+  {
+   "n": "Patang",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Sun NXT",
+    "Aha",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-01-29",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1603844"
+  },
+  {
+   "n": "Champion",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-01-29",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1448170"
+  },
+  {
+   "n": "Cheekatilo",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-01-23",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1263037"
+  },
+  {
+   "n": "Mario",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-01-22",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1621247"
+  },
+  {
+   "n": "Akhanda 2: Thaandavam",
+   "t": "Movie",
+   "p": [
+    "Netflix"
+   ],
+   "d": "2026-01-09",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-23",
+   "link": "https://www.themoviedb.org/movie/1372588"
   }
  ]
 }
