@@ -1,5 +1,15 @@
 {
- "updated": "2026-11-23T12:18:31.498Z",
+ "updated": "2026-11-23T12:31:09.793Z",
+ "logos": {
+  "Netflix": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+  "Prime Video": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+  "JioHotstar": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+  "ZEE5": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+  "SonyLIV": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+  "Sun NXT": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+  "Aha": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+  "Lionsgate Play": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png"
+ },
  "items": [
   {
    "n": "Crazy Kalyanam",
@@ -10,7 +20,8 @@
    "d": "2026-11-20",
    "source": "https://www.telugu360.com/ott-releases-for-the-weekend-nov20/",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/2PkDjtB12KHFE4tj7P1oVMHrCbO.jpg"
   },
   {
    "n": "Mayookha",
@@ -21,7 +32,8 @@
    "d": "2026-11-20",
    "source": "https://www.telugu360.com/ott-releases-for-the-weekend-nov20/",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/7DPJPa3IX8jgthqK8sSnENrVzhA.jpg"
   },
   {
    "n": "Anumana Pakshi",
@@ -32,7 +44,8 @@
    "d": "2026-11-20",
    "source": "https://www.telugu360.com/ott-releases-for-the-weekend-nov20/",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/o4uWwldM7nrioWRnn1u0Tfc9RnF.jpg"
   },
   {
    "n": "Rechipodam Brother",
@@ -77,6 +90,7 @@
    "source": "https://www.telugu360.com/ott-releases-for-the-weekend-nov20/",
    "src": "manual",
    "status": "confirmed",
+   "poster": "/1UUwomcPXFMLW3JT9JNFjQAGkKk.jpg",
    "how": "justwatch",
    "verified": "2026-11-23",
    "pending": [],
@@ -92,6 +106,7 @@
    "source": "https://www.telugu360.com/ott-releases-for-the-weekend-nov20/",
    "src": "manual",
    "status": "confirmed",
+   "poster": "/8jPyjKZE2Bnm3esvDmWZyGA8mkr.jpg",
    "how": "justwatch",
    "verified": "2026-11-23",
    "pending": [],
@@ -108,7 +123,8 @@
    "note": "Aha 14 Nov, JioHotstar 20 Nov (sources differ)",
    "source": "https://www.telugu360.com/ott-releases-for-third-week-of-november-2026/",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/uAlTYjwLAX9VCP8mSbKDiKzkqcS.jpg"
   },
   {
    "n": "Ranabaali",
@@ -120,6 +136,7 @@
    "source": "https://www.telugu360.com/ott-releases-for-third-week-of-november-2026/",
    "src": "manual",
    "status": "confirmed",
+   "poster": "/cXaCyYYbafVyMrs8rwKmxezBYPJ.jpg",
    "how": "justwatch",
    "verified": "2026-11-23",
    "pending": [],
@@ -135,6 +152,7 @@
    "source": "https://www.telugu360.com/ott-releases-for-third-week-of-november-2026/",
    "src": "manual",
    "status": "confirmed",
+   "poster": "/hN2I3bWNDorwrBaYzr4ocNFVDJP.jpg",
    "how": "justwatch",
    "verified": "2026-11-23",
    "pending": [],
@@ -161,7 +179,8 @@
    "dub": "Tamil",
    "source": "https://www.telugu360.com/ott-releases-for-third-week-of-november-2026/",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"
   },
   {
    "n": "Baba Black Sheep",
@@ -184,6 +203,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-11-06",
+   "poster": "/ftvZc6tUyorOGcjLfPrttgiAUVJ.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -200,7 +220,8 @@
    "d": "2026-11-02",
    "source": "https://www.telugu360.com/ott-releases-for-november-1st-week-2026/",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/gwyOrA2t78PT5xrayNRvqZisTpZ.jpg"
   },
   {
    "n": "Bigg Boss Telugu 10",
@@ -235,6 +256,7 @@
    "source": "https://www.telugu360.com/ott-releases-for-october-last-weekend/",
    "src": "manual",
    "status": "confirmed",
+   "poster": "/lxgQu74WalgmhWnSEqweyYj8fnc.jpg",
    "how": "justwatch",
    "verified": "2026-11-23",
    "pending": [],
@@ -250,6 +272,7 @@
    "source": "https://www.telugu360.com/ott-releases-for-october-last-weekend/",
    "src": "manual",
    "status": "confirmed",
+   "poster": "/s3vpAMhZpqbDRNE2Rtx8N6VtqI.jpg",
    "how": "justwatch",
    "verified": "2026-11-23",
    "pending": [],
@@ -265,7 +288,8 @@
    "dub": "Tamil",
    "source": "https://www.telugu360.com/ott-releases-for-october-last-weekend/",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/18Lhkc3nf92bY1cacQomXIqihhN.jpg"
   },
   {
    "n": "Immortal",
@@ -277,7 +301,8 @@
    "dub": "Tamil",
    "source": "https://www.telugu360.com/ott-releases-for-october-last-weekend/",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/9wGj5f5AAOVZ8nHvEy5SaHlmogH.jpg"
   },
   {
    "n": "SI Yugandhar",
@@ -286,6 +311,7 @@
     "Netflix"
    ],
    "d": "2026-10-30",
+   "poster": "/sCEjv2ujQeFTGJrXbZ25o3IbElg.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -300,6 +326,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-10-30",
+   "poster": "/pNL87opHJqUmwSyMm9MuTS5paL8.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -315,7 +342,8 @@
    "d": "2026-10-29",
    "source": "https://cinebuds.com/telugu-movies-digital-release-dates/",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/siqVI5n20WTpE5C8u76pqRAHZxW.jpg"
   },
   {
    "n": "Baththa",
@@ -327,7 +355,8 @@
    "dub": "Tamil",
    "source": "https://www.telugu360.com/ott-releases-for-october-last-weekend/",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg"
   },
   {
    "n": "The Paradise",
@@ -339,6 +368,7 @@
    "source": "https://cinebuds.com/telugu-movies-digital-release-dates/",
    "src": "manual",
    "status": "confirmed",
+   "poster": "/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
    "how": "justwatch",
    "verified": "2026-11-23",
    "pending": [],
@@ -354,7 +384,8 @@
    "note": "Web film",
    "source": "https://svteluguott.in/telugu-ott-releases-this-week",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/cYCHjfZAZyodVpiznfUReKexLNp.jpg"
   },
   {
    "n": "Varam",
@@ -365,7 +396,8 @@
    "d": "2026-10-22",
    "source": "https://svteluguott.in/telugu-ott-releases-this-week",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/peZ7gVqrjZZu9vTNjsqmvWUL3Gh.jpg"
   },
   {
    "n": "Dorothy",
@@ -377,7 +409,8 @@
    "dub": "Tamil",
    "source": "https://svteluguott.in/telugu-ott-releases-this-week",
    "src": "manual",
-   "status": "reported"
+   "status": "reported",
+   "poster": "/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg"
   },
   {
    "n": "Kagitham Padavalu",
@@ -386,6 +419,7 @@
     "Sun NXT"
    ],
    "d": "2026-10-16",
+   "poster": "/7DNkD54Ubo547C5PJjXO81QhvQc.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -400,6 +434,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-10-14",
+   "poster": "/qmWH3zX5IdijAk4TSWDyuGREFPK.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -416,6 +451,7 @@
    "source": "https://www.esquireindia.co.in/entertainment/what-to-stream/telugu-ott-releases-this-week-oct-5-11-epic-first-semester-least-eligible-bachelor-eyes-mandaadi-netflix-sonyliv-etv-win",
    "src": "manual",
    "status": "confirmed",
+   "poster": "/pXf3VlwaCgxvS7kvQlQ3QBwjZpy.jpg",
    "how": "justwatch",
    "verified": "2026-11-23",
    "pending": [],
@@ -431,6 +467,7 @@
    "source": "https://www.91mobiles.com/entertainment/new-telugu-movies",
    "src": "manual",
    "status": "confirmed",
+   "poster": "/gMN8kkciIx3abnABV3KJy6DnDgN.jpg",
    "how": "justwatch",
    "verified": "2026-11-23",
    "pending": [],
@@ -455,6 +492,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-10-02",
+   "poster": "/hYfu1SIE1wViNVPT0zdlqTwpPeb.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -471,6 +509,7 @@
    "source": "https://www.91mobiles.com/entertainment/new-telugu-movies",
    "src": "manual",
    "status": "confirmed",
+   "poster": "/p8NASLkwMuWJMzncvNViscP6hgj.jpg",
    "how": "justwatch",
    "verified": "2026-11-23",
    "pending": [],
@@ -484,6 +523,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-10-01",
+   "poster": "/3GeLO1YuFbXklGouyTXx9VzxRl6.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -501,6 +541,7 @@
    "source": "https://www.esquireindia.co.in/entertainment/what-to-stream/telugu-ott-releases-this-week-oct-5-11-epic-first-semester-least-eligible-bachelor-eyes-mandaadi-netflix-sonyliv-etv-win",
    "src": "manual",
    "status": "confirmed",
+   "poster": "/92JTzrsDpqPlXCv6O1u3DIxDAso.jpg",
    "how": "justwatch",
    "verified": "2026-11-23",
    "pending": [
@@ -515,6 +556,7 @@
     "ZEE5"
    ],
    "d": "2026-09-25",
+   "poster": "/jc8tGN6w8Gc6yGkELxfUZAYQqYz.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -529,6 +571,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-09-25",
+   "poster": "/V0y1fNv1LFCv3YuPqAu7S3AGhE.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -544,6 +587,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-09-19",
+   "poster": "/sGVN0bh4xQtJIHiXFy2JyWVOiMd.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -557,6 +601,7 @@
     "Netflix"
    ],
    "d": "2026-09-18",
+   "poster": "/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -571,6 +616,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-09-15",
+   "poster": "/cPQ45Tc7s7PWSc3MjFyt0POO9kB.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -584,6 +630,7 @@
     "ZEE5"
    ],
    "d": "2026-09-11",
+   "poster": "/A8MOyQBO6Pz9OQEmHO4u0FoHBIF.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -597,6 +644,7 @@
     "Netflix"
    ],
    "d": "2026-09-04",
+   "poster": "/cl35nsSE0zDvIrvFewLtM748SBf.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -611,6 +659,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-09-04",
+   "poster": "/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -625,6 +674,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-09-02",
+   "poster": "/sZsHYS3ckPoSUBnEB5J3CiE3oBV.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -639,6 +689,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-08-28",
+   "poster": "/q1AGDayKh45gCc00ZiDpWd1XzI7.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -652,6 +703,7 @@
     "Netflix"
    ],
    "d": "2026-08-27",
+   "poster": "/xwktbz1EQrNTJVNkbXFrycBCIj4.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -666,6 +718,7 @@
     "Sonyliv Amazon Channel"
    ],
    "d": "2026-08-21",
+   "poster": "/qrtPpMEdWCAM6ybsTvD9rcwdWIS.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -679,6 +732,7 @@
     "Aha"
    ],
    "d": "2026-08-21",
+   "poster": "/mPD1On2TjauTeOUUFxM9HYLxMWg.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -694,6 +748,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-08-20",
+   "poster": "/x19sNiGPeiF9wvN0u2hrc9I6gpM.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -708,6 +763,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-08-20",
+   "poster": "/fqV5a8SPAP0oW59MzMshIJra3r4.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -723,6 +779,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-08-19",
+   "poster": "/jawa4LKD9PnBgCpVANUhB3SL94I.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -736,6 +793,7 @@
     "Sun NXT"
    ],
    "d": "2026-08-14",
+   "poster": "/2fGML9MV1iODxPctkAKfggUO722.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -750,6 +808,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-08-14",
+   "poster": "/fK8TdIPdyJaaFMHlUV3JEZKFONJ.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -765,6 +824,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-08-07",
+   "poster": "/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -779,6 +839,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-08-07",
+   "poster": "/jTJ7ML9wtt4AGaJHCNxFqwU4MJI.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -792,6 +853,7 @@
     "Aha"
    ],
    "d": "2026-08-06",
+   "poster": "/qi3AnfzSqEM844w8FSG3JJmxMS4.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -807,6 +869,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-07-31",
+   "poster": "/3QkUCZep8cWBcu3982OrYitb9L1.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -820,6 +883,7 @@
     "Netflix"
    ],
    "d": "2026-07-31",
+   "poster": "/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -835,6 +899,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-07-24",
+   "poster": "/s1G8Fvpd03k30WoHHpzzhpfVf3I.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -849,6 +914,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-07-24",
+   "poster": "/fsiQ0twZbmbLo0F2CDUt44riRxL.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -864,6 +930,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-07-17",
+   "poster": "/rXg6RAJzkhE3gQql14G3oiIXcRS.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -879,6 +946,7 @@
     "Sonyliv Amazon Channel"
    ],
    "d": "2026-07-17",
+   "poster": "/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -892,6 +960,7 @@
     "ZEE5"
    ],
    "d": "2026-07-17",
+   "poster": "/nhDstdasoKGY03BopSWHJlxQq27.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -905,6 +974,7 @@
     "Netflix"
    ],
    "d": "2026-07-09",
+   "poster": "/vPWDScBQcgtuCMBWuSut0aYeDAT.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -918,6 +988,7 @@
     "Netflix"
    ],
    "d": "2026-07-08",
+   "poster": "/3D9haHbuiovcDVjyZoNmlaBY8a.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -932,6 +1003,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-07-06",
+   "poster": "/i5fwGo27RNq6rLcTvSbI57lriw3.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -945,6 +1017,7 @@
     "Netflix"
    ],
    "d": "2026-07-03",
+   "poster": "/fQuKcQdlDEZNltcHCN83pYEnh6D.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -959,6 +1032,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-07-02",
+   "poster": "/cs42BHvNNWw74fct04gAzijTtBQ.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -972,6 +1046,7 @@
     "Netflix"
    ],
    "d": "2026-07-02",
+   "poster": "/bwb5oPnZAdRwKusI8So8Sx1bcL4.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -986,6 +1061,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-06-26",
+   "poster": "/A5vUUAoMPj0GMARpA7hZrawcnJx.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -999,6 +1075,7 @@
     "Netflix"
    ],
    "d": "2026-06-26",
+   "poster": "/sry6YMpbi7UTOYAkbTzpiEtwS7R.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1012,6 +1089,7 @@
     "Hungama Play"
    ],
    "d": "2026-06-22",
+   "poster": "/ooY4L186ndddAO0bHpSHxwE3Z77.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1027,6 +1105,7 @@
     "Lionsgate Play Amazon Channel"
    ],
    "d": "2026-06-19",
+   "poster": "/FcoRfDLRwiAcNCd5SmeDIIeea7.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1042,6 +1121,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-06-19",
+   "poster": "/la5XLMTI7HpzEdrWAZe5vMtyGqt.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1056,6 +1136,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-06-19",
+   "poster": "/huPugRFCfwTrJSN09B5Z4BKssye.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1071,6 +1152,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-06-12",
+   "poster": "/g8KJHtfvavQAzYdv5nvTb87Mjvx.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1087,6 +1169,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-06-05",
+   "poster": "/hzg1qQmlFF0h4iY6Vw06IcIng9a.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1101,6 +1184,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-05-22",
+   "poster": "/4vwruUDQbCLOxZG4RMiBnZW4LTz.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1116,6 +1200,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-05-20",
+   "poster": "/7lRCDsm8vTA8VIdfkDXEe4UK70C.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1131,6 +1216,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-05-17",
+   "poster": "/sUKPQzaYQoLqlM0jiK6URjXgtbZ.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1145,6 +1231,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-05-14",
+   "poster": "/uApbYo8FnHRNFCqvruo9wfQtyC6.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1159,6 +1246,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-05-08",
+   "poster": "/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1172,6 +1260,7 @@
     "Netflix"
    ],
    "d": "2026-05-01",
+   "poster": "/aduDhtZAcV6OlZzr7zAFbLE5aWE.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1185,6 +1274,7 @@
     "Netflix"
    ],
    "d": "2026-04-30",
+   "poster": "/sXwVJJMIPB4duU1mWbagt5ikUtq.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1198,6 +1288,7 @@
     "Aha"
    ],
    "d": "2026-04-25",
+   "poster": "/7Kw1e0zhNciVNFI4g8C0PENVqyq.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1211,6 +1302,7 @@
     "ZEE5"
    ],
    "d": "2026-04-24",
+   "poster": "/4hdgEE7GLj0JLP0q0GXwslG3s7C.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1226,6 +1318,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-04-22",
+   "poster": "/L3fL8fPmfFmbZkRkrQJFljRmBo.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1241,6 +1334,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-04-21",
+   "poster": "/c2t1rNPSGPZMQKuaNJU6od6QqAU.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1255,6 +1349,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-04-17",
+   "poster": "/xKFffg930NgDsPg1LAKNRsFSk9I.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1268,6 +1363,7 @@
     "Netflix"
    ],
    "d": "2026-04-16",
+   "poster": "/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1282,6 +1378,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-04-04",
+   "poster": "/8oAkC78vGiAbofyqjwbCTOzh5Z5.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1295,6 +1392,7 @@
     "Netflix"
    ],
    "d": "2026-04-03",
+   "poster": "/5NaXPthSsxJHo5Br0IIiLYz0z3w.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1308,6 +1406,7 @@
     "Netflix"
    ],
    "d": "2026-04-02",
+   "poster": "/i3UOdLcukeGvG6jFah3moegzCPw.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1321,6 +1420,7 @@
     "ZEE5"
    ],
    "d": "2026-03-31",
+   "poster": "/5rgrUXihvssOhHAaOdDJa9mAGVY.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1336,6 +1436,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-03-20",
+   "poster": "/nML3XMBRK7WOv0duexoF8A3RnHI.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1349,6 +1450,7 @@
     "ZEE5"
    ],
    "d": "2026-03-13",
+   "poster": "/3QoTnvsbIAAWVXpfHzQKeEQhUi7.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1363,6 +1465,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-03-13",
+   "poster": "/kiKGBPQC6exxUbIrOMnDtuU4soC.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1376,6 +1479,7 @@
     "Netflix"
    ],
    "d": "2026-03-12",
+   "poster": "/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1390,6 +1494,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-03-12",
+   "poster": "/318rq88OAqNFlDhlh1HwWnHBTK4.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1403,6 +1508,7 @@
     "Aha"
    ],
    "d": "2026-03-02",
+   "poster": "/mALSJGjgjohkv56pZzpPJL2MOuj.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1416,6 +1522,7 @@
     "ZEE5"
    ],
    "d": "2026-02-27",
+   "poster": "/miDe2C8hKh5Ybbe666sMKOcbF6P.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1430,6 +1537,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-02-13",
+   "poster": "/oBYExKI8E3bTzQjPkofhpV2EJon.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1443,6 +1551,7 @@
     "ZEE5"
    ],
    "d": "2026-02-11",
+   "poster": "/w0HMauXnYBlFk3iikMLa7cPjR30.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1456,6 +1565,7 @@
     "Netflix"
    ],
    "d": "2026-02-11",
+   "poster": "/iCzGY1JD4DXqAjDKhsesKzs9vdK.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1469,6 +1579,7 @@
     "Sun NXT"
    ],
    "d": "2026-02-05",
+   "poster": "/z4g0yDlh2ApKrcBnTWV0RxbtLiC.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1482,6 +1593,7 @@
     "Prime Video"
    ],
    "d": "2026-02-04",
+   "poster": "/jFBu7tS0mlEZwYTkjJcKH48bV4m.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1497,6 +1609,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-02-02",
+   "poster": "/9UZrHOeryYvgVaEfUMY3hk1OWg0.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1513,6 +1626,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-01-29",
+   "poster": "/x4pfUqv2df1SLmHVLMWx5Uav9ew.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1526,6 +1640,7 @@
     "Netflix"
    ],
    "d": "2026-01-29",
+   "poster": "/mC8s4ZUt1bTAL3OAlZGSSEs3Ieo.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1540,6 +1655,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-01-23",
+   "poster": "/pO86EjZb7QyGYk5RW4Xm4UWe5Uv.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1554,6 +1670,7 @@
     "Amazon Prime Video with Ads"
    ],
    "d": "2026-01-22",
+   "poster": "/a6UBMJQisGuoIEoh8VRlFsRuRJN.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
@@ -1567,6 +1684,7 @@
     "Netflix"
    ],
    "d": "2026-01-09",
+   "poster": "/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg",
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
