@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:32:00.312Z",
+ "updated": "2026-11-24T11:25:48.546Z",
  "logos": {
   "Netflix": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
   "Prime Video": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
@@ -92,7 +92,7 @@
    "status": "confirmed",
    "poster": "/1UUwomcPXFMLW3JT9JNFjQAGkKk.jpg",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1606527"
   },
@@ -106,9 +106,9 @@
    "source": "https://www.telugu360.com/ott-releases-for-the-weekend-nov20/",
    "src": "manual",
    "status": "confirmed",
-   "poster": "/8jPyjKZE2Bnm3esvDmWZyGA8mkr.jpg",
+   "poster": "/zSRlij0VRLLpK12iKK4bUFdA2R2.jpg",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1637705"
   },
@@ -138,7 +138,7 @@
    "status": "confirmed",
    "poster": "/cXaCyYYbafVyMrs8rwKmxezBYPJ.jpg",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1389379"
   },
@@ -154,7 +154,7 @@
    "status": "confirmed",
    "poster": "/hN2I3bWNDorwrBaYzr4ocNFVDJP.jpg",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1772904"
   },
@@ -207,7 +207,7 @@
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "link": "https://www.themoviedb.org/movie/1555215"
   },
   {
@@ -258,7 +258,7 @@
    "status": "confirmed",
    "poster": "/lxgQu74WalgmhWnSEqweyYj8fnc.jpg",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1261763"
   },
@@ -274,7 +274,7 @@
    "status": "confirmed",
    "poster": "/s3vpAMhZpqbDRNE2Rtx8N6VtqI.jpg",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "pending": [],
    "link": "https://www.themoviedb.org/tv/340453"
   },
@@ -315,7 +315,7 @@
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "link": "https://www.themoviedb.org/movie/1811964"
   },
   {
@@ -330,7 +330,7 @@
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "link": "https://www.themoviedb.org/movie/1428295"
   },
   {
@@ -370,7 +370,7 @@
    "status": "confirmed",
    "poster": "/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1376856"
   },
@@ -423,7 +423,7 @@
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "link": "https://www.themoviedb.org/movie/1799441"
   },
   {
@@ -438,7 +438,7 @@
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "link": "https://www.themoviedb.org/tv/336831"
   },
   {
@@ -453,7 +453,7 @@
    "status": "confirmed",
    "poster": "/pXf3VlwaCgxvS7kvQlQ3QBwjZpy.jpg",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1408158"
   },
@@ -469,7 +469,7 @@
    "status": "confirmed",
    "poster": "/gMN8kkciIx3abnABV3KJy6DnDgN.jpg",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1604274"
   },
@@ -511,7 +511,7 @@
    "status": "confirmed",
    "poster": "/p8NASLkwMuWJMzncvNViscP6hgj.jpg",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1669281"
   },
@@ -543,7 +543,7 @@
    "status": "confirmed",
    "poster": "/92JTzrsDpqPlXCv6O1u3DIxDAso.jpg",
    "how": "justwatch",
-   "verified": "2026-11-23",
+   "verified": "2026-11-24",
    "pending": [
     "ETV Win"
    ],
