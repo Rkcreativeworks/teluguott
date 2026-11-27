@@ -1,14 +1,6 @@
 {
- "updated": "2026-11-26T09:52:46.974Z",
+ "updated": "2026-11-27T09:57:03.007Z",
  "items": [
-  {
-   "n": "Saayavanam",
-   "from": "ta",
-   "p": [
-    "Aha"
-   ],
-   "link": "https://www.themoviedb.org/movie/1310458"
-  },
   {
    "n": "Haiku",
    "from": "ta",
@@ -76,15 +68,6 @@
     "Netflix"
    ],
    "link": "https://www.themoviedb.org/movie/1215889"
-  },
-  {
-   "n": "Parivarik ManuRanjan",
-   "from": "hi",
-   "p": [
-    "SonyLIV",
-    "Sonyliv Amazon Channel"
-   ],
-   "link": "https://www.themoviedb.org/movie/1493572"
   }
  ]
 }

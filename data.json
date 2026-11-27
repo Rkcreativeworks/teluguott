@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:52:46.974Z",
+ "updated": "2026-11-27T09:57:03.007Z",
  "logos": {
   "Netflix": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
   "Prime Video": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
@@ -11,6 +11,35 @@
   "Lionsgate Play": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png"
  },
  "items": [
+  {
+   "n": "Srimathi",
+   "t": "Movie",
+   "p": [
+    "ZEE5"
+   ],
+   "d": "2026-12-04",
+   "poster": "/qhiTtaV29vfqfWP3PIo4pQkXmL3.jpg",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-27",
+   "link": "https://www.themoviedb.org/movie/1737773"
+  },
+  {
+   "n": "Garividi Lakshmi",
+   "t": "Movie",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "d": "2026-11-25",
+   "poster": "/qhZ01fVnKZ39zSboOgHWZ648wxa.jpg",
+   "src": "tmdb",
+   "status": "confirmed",
+   "how": "justwatch",
+   "verified": "2026-11-27",
+   "link": "https://www.themoviedb.org/movie/1555847"
+  },
   {
    "n": "Crazy Kalyanam",
    "t": "",
@@ -33,7 +62,7 @@
    "source": "https://www.telugu360.com/ott-releases-for-the-weekend-nov20/",
    "src": "manual",
    "status": "reported",
-   "poster": "/7DPJPa3IX8jgthqK8sSnENrVzhA.jpg"
+   "poster": "/zI6Ka531FYSSSczsY7kYGx3KZV.jpg"
   },
   {
    "n": "Anumana Pakshi",
@@ -92,7 +121,7 @@
    "status": "confirmed",
    "poster": "/1UUwomcPXFMLW3JT9JNFjQAGkKk.jpg",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1606527"
   },
@@ -108,7 +137,7 @@
    "status": "confirmed",
    "poster": "/zSRlij0VRLLpK12iKK4bUFdA2R2.jpg",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1637705"
   },
@@ -138,7 +167,7 @@
    "status": "confirmed",
    "poster": "/cXaCyYYbafVyMrs8rwKmxezBYPJ.jpg",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1389379"
   },
@@ -154,7 +183,7 @@
    "status": "confirmed",
    "poster": "/hN2I3bWNDorwrBaYzr4ocNFVDJP.jpg",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1772904"
   },
@@ -207,7 +236,7 @@
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "link": "https://www.themoviedb.org/movie/1555215"
   },
   {
@@ -258,7 +287,7 @@
    "status": "confirmed",
    "poster": "/lxgQu74WalgmhWnSEqweyYj8fnc.jpg",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1261763"
   },
@@ -274,7 +303,7 @@
    "status": "confirmed",
    "poster": "/s3vpAMhZpqbDRNE2Rtx8N6VtqI.jpg",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "pending": [],
    "link": "https://www.themoviedb.org/tv/340453"
   },
@@ -315,7 +344,7 @@
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "link": "https://www.themoviedb.org/movie/1811964"
   },
   {
@@ -330,7 +359,7 @@
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "link": "https://www.themoviedb.org/movie/1428295"
   },
   {
@@ -370,7 +399,7 @@
    "status": "confirmed",
    "poster": "/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1376856"
   },
@@ -423,7 +452,7 @@
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "link": "https://www.themoviedb.org/movie/1799441"
   },
   {
@@ -438,7 +467,7 @@
    "src": "tmdb",
    "status": "confirmed",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "link": "https://www.themoviedb.org/tv/336831"
   },
   {
@@ -453,7 +482,7 @@
    "status": "confirmed",
    "poster": "/pXf3VlwaCgxvS7kvQlQ3QBwjZpy.jpg",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1408158"
   },
@@ -469,7 +498,7 @@
    "status": "confirmed",
    "poster": "/gMN8kkciIx3abnABV3KJy6DnDgN.jpg",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1604274"
   },
@@ -511,7 +540,7 @@
    "status": "confirmed",
    "poster": "/p8NASLkwMuWJMzncvNViscP6hgj.jpg",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "pending": [],
    "link": "https://www.themoviedb.org/movie/1669281"
   },
@@ -543,7 +572,7 @@
    "status": "confirmed",
    "poster": "/92JTzrsDpqPlXCv6O1u3DIxDAso.jpg",
    "how": "justwatch",
-   "verified": "2026-11-26",
+   "verified": "2026-11-27",
    "pending": [
     "ETV Win"
    ],
