@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:57:03.007Z",
+ "updated": "2026-11-28T09:11:57.838Z",
  "items": [
   {
    "n": "Haiku",
@@ -19,29 +19,12 @@
    "link": "https://www.themoviedb.org/movie/1431738"
   },
   {
-   "n": "Bandra",
-   "from": "ml",
-   "p": [
-    "ZEE5"
-   ],
-   "link": "https://www.themoviedb.org/movie/1013057"
-  },
-  {
    "n": "Chiram",
    "from": "ml",
    "p": [
     "Sun NXT"
    ],
    "link": "https://www.themoviedb.org/movie/1778302"
-  },
-  {
-   "n": "Madhurame Jeevitham",
-   "from": "ml",
-   "p": [
-    "Prime Video",
-    "Amazon Prime Video with Ads"
-   ],
-   "link": "https://www.themoviedb.org/movie/1566124"
   },
   {
    "n": "Premada Oorali",
@@ -62,12 +45,29 @@
    "link": "https://www.themoviedb.org/movie/1730215"
   },
   {
-   "n": "Daayra",
+   "n": "America America 2",
+   "from": "kn",
+   "p": [
+    "Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "link": "https://www.themoviedb.org/movie/1734726"
+  },
+  {
+   "n": "Drishyam: The Conclusion",
    "from": "hi",
    "p": [
     "Netflix"
    ],
-   "link": "https://www.themoviedb.org/movie/1215889"
+   "link": "https://www.themoviedb.org/movie/1269325"
+  },
+  {
+   "n": "Hanuman Ansh",
+   "from": "hi",
+   "p": [
+    "Sonyliv Amazon Channel"
+   ],
+   "link": "https://www.themoviedb.org/movie/1709391"
   }
  ]
 }
